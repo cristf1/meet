@@ -1,0 +1,1 @@
+The Meet app will use serverless technology to allow users obtain information about events via rest API to AWS Lambda.
